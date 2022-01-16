@@ -1,0 +1,28 @@
+
+
+InstallIng 
+Read Me File
+--------------------------------
+Installation Note
+--------------------------------
+a)First go to setup Folder
+b)Go to debug folder
+c)Run setup file
+d)Follow onscreen instruction
+-after installation there is a shortcut icon on the desktop names spa breaks
+-Double click on the icon
+--------------Enjoy the  programe-------------
+		Thanks
+
+-----------------------
+System Requirements 
+------------------------
+-windows 7, 8, 10
+-1.0 Ghz CPU
+-.Net Framework
+-3D accelerated GeForce3 64 MB or equivalent DirectX9 compatible videocard
+- Minimum 1.00 GB of RAM
+- 2 GB of Free Hard Drive 
+-16x CD-ROM drive
+-MS compatible mouse
+-Keyboard
